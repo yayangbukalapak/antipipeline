@@ -1,0 +1,13 @@
+<div>
+    <h1>Our Product</h1>
+    <ul>
+        <li v-for="item in items">
+            <h3>{{ item.name }}</h3>
+            <p>
+                {{ item.description }}
+            </p>
+        </li>
+    </ul>
+
+    <button @click="fetchData" id="next-button">Selanjutnya</button>
+</div>

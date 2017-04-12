@@ -1,0 +1,1 @@
+<template src="views/layout/base.html"></template>

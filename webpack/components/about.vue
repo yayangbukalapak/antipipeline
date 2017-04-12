@@ -1,0 +1,1 @@
+<template src="views/about.html"></template>

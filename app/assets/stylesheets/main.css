@@ -1,0 +1,43 @@
+body {
+    margin: 0;
+    color: #333;
+}
+
+#app:after {
+    clear: both;
+    content: '';
+    display: table;
+}
+
+.sidebar {
+    width: 20%;
+    padding-top: 25px;
+    position: fixed;
+}
+
+.sidebar ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.sidebar ul li {
+    border-bottom: 1px solid #eee;
+}
+
+.sidebar ul li a {
+    padding: 10px;
+    display: block;
+    text-decoration: none;
+    color: #333;
+}
+
+
+.main-body {
+    margin-left: 20%;
+    padding: 10px 20px;
+}
+
+.main-body h1 {
+    margin-top: 10px;
+}

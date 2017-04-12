@@ -1,0 +1,18 @@
+[
+  {
+    "question" : "Bagaimana jika resi yang diberikan oleh pelapak ternyata salah (tidak valid)?",
+    "answer": "Jika nomor resi pengiriman yang kamu terima tidak bisa dilacak setelah 3 hari sejak pelapak memasukkan nomor resi, kamu bisa menyampaikan komplain langsung ke pelapak melalui fitur Kirim Pesan. Silakan buka akun pelapak, kemudian klik tombol Tinggalkan Pesan."
+  },
+  {
+    "question" : "Apakah dana akan dikembalikan jika transaksi dibatalkan atau ditolak pelapak?",
+    "answer" : "Bukalapak memberikan jaminan 100% uang kembali kepada pembeli untuk setiap transaksi yang berlangsung melalui sistem pembayaran Bukalapak. Dana transaksi akan dikembalikan jika: Pelapak tidak mengirim barang dalam 2x24 jam setelah pembayaran, Pelapak menolak pesanan, Pelapak di-non-aktifkan dari Bukalapak, Transaksi dibatalkan atas kesepakatan pelapak dan pembeli Dana atas transaksi yang dibatalkan atau ditolak pelapak akan dikembalikan ke BukaDompet kamu."
+  },
+  {
+    "question" : "Mengapa pembayaran saya belum diverifikasi?",
+    "answer" : "Pembayaran yang proses verifikasinya lama bisa terjadi karena pembeli tidak membayar sesuai nominal tagihan yang tertera. Jika kamu sudah melakukan pembayaran namun transaksi kamu belum berubah statusnya menjadi Dibayar, silakan kirim bukti pembayaran dan cantumkan nomor transaksinya ke Customer Support Bukalapak melalui fitur Hubungi Bukalapak"
+  },
+  {
+    "question" : "Apa itu BukaDompet?",
+    "answer" : "BukaDompet adalah sebuah dompet virtual yang dimiliki oleh setiap orang yang memiliki akun di Bukalapak. BukaDompet berguna untuk menyimpan dana hasil penjualan (remittance) dan dana hasil pengembalian transaksi (refund). BukaDompet juga dapat ditambahkan saldonya untuk mempermudah transaksi pengguna Bukalapak."
+  }
+]
